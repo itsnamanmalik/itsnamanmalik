@@ -14,6 +14,9 @@
 <br />
 <br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnamanmalik&hide=html,css,javascript)
-
-![](https://github-readme-stats.vercel.app/api?username=itsnamanmalik&show_icons=true&count_private=true&line_height=40)
+<a href="https://github.com/itsnamanmalik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnamanmalik&hide=html,css,javascript&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/itsnamanmalik">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnamanmalik&show_icons=true&theme=light&line_height=27" alt="Naman's github stats"/>
+</a>

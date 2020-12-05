@@ -1,5 +1,5 @@
-### Hola, I'm [Naman Malik!](https://www.namanmalik.xyz) 👋
-[![website](https://img.shields.io/badge/PortfolioWebsite-namanmalik.xyz-2648ff?style=flat-square&logo=google-chrome)](https://www.namanmalik.xyz)
+### Hola, I'm [Naman Malik!](https://www.namanmalik.in) 👋
+[![website](https://img.shields.io/badge/PortfolioWebsite-namanmalik.in-2648ff?style=flat-square&logo=google-chrome)](https://www.namanmalik.in)
 
 
 <a href="https://www.linkedin.com/in/namanmalik">

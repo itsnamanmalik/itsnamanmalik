@@ -1,7 +1,7 @@
 ### Hola, I'm [Naman Malik!](https://www.namanmalik.in) 👋
 
 <img src="https://komarev.com/ghpvc/?username=itsnamanmalik" alt="itsnamanmalik" />
-<a href="https://github.com/itsnamanmalik">
+<a href="https://www.namanmalik.in">
   <img align="left" alt="Naman Malik" src="https://img.shields.io/badge/PortfolioWebsite-namanmalik.in-2648ff?style=flat-square&logo=google-chrome"/>
 </a>
 

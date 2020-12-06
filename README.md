@@ -1,6 +1,13 @@
 ### Hola, I'm [Naman Malik!](https://www.namanmalik.in) 👋
-[![website](https://img.shields.io/badge/PortfolioWebsite-namanmalik.in-2648ff?style=flat-square&logo=google-chrome)](https://www.namanmalik.in)
 
+<img src="https://komarev.com/ghpvc/?username=itsnamanmalik" alt="itsnamanmalik" />
+<a href="https://github.com/itsnamanmalik">
+  <img align="left" alt="Naman Malik" src="https://img.shields.io/badge/PortfolioWebsite-namanmalik.in-2648ff?style=flat-square&logo=google-chrome"/>
+</a>
+
+<br/>
+
+### Connect with me
 
 <a href="https://www.linkedin.com/in/namanmalik">
   <img align="left" alt="Naman Malik - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -12,11 +19,9 @@
   <img align="left" alt="Naman Malik - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <br />
-<br />
 
-<a href="https://github.com/itsnamanmalik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnamanmalik&hide=html,css,javascript&theme=light&hide_langs_below=1" />
-</a>
+### Github Stats
+
 <a href="https://github.com/itsnamanmalik">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnamanmalik&show_icons=true&theme=light&line_height=27" alt="Naman's github stats"/>
 </a>

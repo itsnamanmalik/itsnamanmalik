@@ -1,6 +1,9 @@
 ## Hola, I'm [Naman Malik!](https://www.namanmalik.in) 👋
 
+<a href="https://github.com/itsnamanmalik">
 <img src="https://komarev.com/ghpvc/?username=itsnamanmalik" alt="itsnamanmalik" />
+</a>
+
 <a href="https://www.namanmalik.in">
   <img align="left" alt="Naman Malik" src="https://img.shields.io/badge/PortfolioWebsite-namanmalik.in-2648ff?style=flat-square&logo=google-chrome"/>
 </a>
@@ -24,7 +27,7 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-<a href="https://github.com/itsnamanmalik/github-readme-streak-stats">
+<a href="https://github.com/itsnamanmalik">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnamanmalik#version3"/>
 </a>  
 </p>

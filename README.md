@@ -1,4 +1,4 @@
-### Hola, I'm [Naman Malik!](https://www.namanmalik.in) 👋
+## Hola, I'm [Naman Malik!](https://www.namanmalik.in) 👋
 
 <img src="https://komarev.com/ghpvc/?username=itsnamanmalik" alt="itsnamanmalik" />
 <a href="https://www.namanmalik.in">
@@ -7,7 +7,7 @@
 
 <br/>
 
-### Connect with me
+## Connect with me
 
 <a href="https://www.linkedin.com/in/namanmalik">
   <img align="left" alt="Naman Malik - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>

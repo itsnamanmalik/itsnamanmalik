@@ -28,16 +28,8 @@
 
 ## 🔥 My contribution streak
 
-<p align="center">
+<p>
 <a href="https://github.com/itsnamanmalik">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnamanmalik#version3"/>
 </a>  
-</p>
-
-## Github Stats
-
-<p align="center">
-<a href="https://github.com/itsnamanmalik">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsnamanmalik&show_icons=true&theme=light&line_height=27" alt="Naman's github stats"/>
-</a>
 </p>

@@ -24,12 +24,3 @@
   <img align="left" alt="Naman Malik - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <br />
-
-
-## 🔥 My contribution streak
-
-<p>
-<a href="https://github.com/itsnamanmalik">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsnamanmalik#version3"/>
-</a>  
-</p>
